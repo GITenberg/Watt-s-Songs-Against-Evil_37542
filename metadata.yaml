@@ -1,0 +1,35 @@
+_repo: Watt-s-Songs-Against-Evil_37542
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watts, Isaac
+    alias: Watts, I. (Isaac)
+    birthdate: 1674
+    deathdate: 1748
+    gutenberg_agent_id: '4876'
+    url: http://www.gutenberg.org/2009/agents/4876
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Watts
+description: ''
+gutenberg_issued: '2011-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Watts' Divine and Moral Songs
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Christian life -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcsh 'Children -- Conduct of life -- Juvenile poetry'
+- !lcsh 'Children''s songs'
+tableOfContents: Against pride in clothes -- The sluggard -- The ant, or Emmet --
+  Innocent play -- Against evil company -- The thief -- The rose.
+title: Watt's Songs Against Evil
+url: http://www.gutenberg.org/ebooks/37542
